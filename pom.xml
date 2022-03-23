@@ -44,13 +44,13 @@
 <repository>
 <id>package</id>
 <url>
-http://44.202.117.80:8081/repository/package/
+http://44.203.171.100:8081/repository/package/
 </url>
 </repository>
 <snapshotRepository>	
 <id>snapshots</id>
 <url>
-http://44.202.117.80:8081/repository/snapshots/
+http://44.203.171.100:8081/repository/snapshots/
 </url>
 </snapshotRepository>
 </distributionManagement>
